@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Saini Mahli
 
-<!--
-**sainimahli/sainimahli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Software Engineer  
+🚀 Open Source & GSoC 2026 Aspirant  
 
-Here are some ideas to get you started:
+I am a Computer Applications student with a strong interest in software development and open-source contributions. Currently building a solid foundation in web development and data structures while preparing for internships and GSoC 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
+- HTML & CSS
+- Java (Basics)
+- Data Structures & Algorithms (Beginner)
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+- Advanced Java & DSA
+- Web Development
+- Open Source contribution workflow
+
+---
+
+## 🎯 Goals (2026–2027)
+- Contribute to open-source projects
+- Get selected for **GSoC 2026**
+- Secure a software engineering internship
+- Build strong real-world projects
+
+---
+
+## 📌 Education
+- **BCA (Bachelor of Computer Applications)**  
+  Expected Graduation: 2027
+
+---
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/sainimahli
+- LinkedIn: https://www.linkedin.com/in/saini-mahli-2a3954356
