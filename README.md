@@ -1,32 +1,41 @@
 # Hi 👋, I'm Saini Mahli
 
-🎓 BCA Student | 💻 Aspiring Software Engineer  
-🚀 Open Source & GSoC 2026 Aspirant  
+🎓 BCA Student | 💻 Aspiring Software Engineer | 🌐 Full Stack Developer 
+---
 
-I am a Computer Applications student with a strong interest in software development and open-source contributions. Currently building a solid foundation in web development and data structures while preparing for internships and GSoC 2026.
+🚀 About Me
+🎓 Currently pursuing BCA (1st Year)
+💡 Passionate about Web Development & Software Engineering
+🌱 Learning Java, Data Structures & Algorithms, and Full Stack Development
+🎯 Goal: Become a skilled developer and build impactful real-world projects
+⚡ Fun fact: I love creating aesthetic UI designs and animations
 
 ---
 
-## 🛠️ Skills & Technologies
-- HTML & CSS
-- Java (Basics)
-- Data Structures & Algorithms (Beginner)
-- Git & GitHub
+🛠️ Tech Stack
+## 💻 Languages
+-Java
+-JavaScript
+-HTML5
+-CSS3
+
+## 🌐 Web Development
+-React.js 
+-Node.js 
+-Git & GitHub
+
+## 📚 Currently Learning
+-Data Structures & Algorithms (Java)
+-Full Stack Development
+-Open Source Contribution
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Java & DSA
-- Web Development
-- Open Source contribution workflow
-
----
-
-## 🎯 Goals (2026–2027)
-- Contribute to open-source projects
-- Get selected for **GSoC 2026**
-- Secure a software engineering internship
-- Build strong real-world projects
+## 🎯 Goals for 2026
+✔️ Build 5+ real-world projects
+✔️ Contribute to Open Source
+✔️ Crack internships in Web Development
+✔️ Improve problem-solving skills
 
 ---
 
@@ -35,6 +44,8 @@ I am a Computer Applications student with a strong interest in software developm
   Expected Graduation: 2027
 
 ---
+
+⭐ “Consistent learning + building = Success”
 
 ## 🔗 Connect With Me
 - GitHub: https://github.com/sainimahli
