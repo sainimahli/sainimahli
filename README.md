@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Saini%20Mahli&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descColor=a8b2d8" />
@@ -152,9 +150,9 @@ patient record management, and a fully responsive user-friendly interface.
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 📈 Contribution Graph
 
-![snake gif](https://github.com/sainimahli/sainimahli/blob/output/github-contribution-grid-snake.svg)
+[![Saini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sainimahli&theme=tokyo-night&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
